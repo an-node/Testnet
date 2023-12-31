@@ -131,7 +131,7 @@ export NULINK_OPERATOR_ETH_PASSWORD=12345678
 ```
 12. Create screen
 ```
-screen S nulink
+screen -S nulink
 ```
 
 13- Initialize Node Configuration
@@ -192,7 +192,7 @@ docker logs -f ursula
 
 17. Detach
 ```
-CTRL a d
+CTRL a+d
 ```
 
 18. Go to dahsbord : https://dashboard.testnet.nulink.org/
