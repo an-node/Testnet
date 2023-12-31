@@ -196,13 +196,13 @@ CTRL a d
 ```
 
 18. Go to dahsbord : https://dashboard.testnet.nulink.org/
-- Connect your wallet to the staker on the BSC_testnet chain.
-- Request NLK from the faucet on the top right of the dashboard next to the Metamask logo.
-- Then select the STAKING tab.
-- Click the APPROVE button.
-- Click the Stake button (max 5).
-- Scroll down and select the bond to Worker button.
-- Insert the worker wallet.
+- Connect Staker wallet chain BSC_testnet
+- Request NLK from the faucet on the top right of the dashboard next to the Metamask logo
+- Then select the STAKING tab
+- Click the APPROVE button
+- Click the Stake button (max 5)
+- Scroll down and select the bond to Worker button
+- Insert the worker wallet
 
 19. fill form : https://docs.google.com/forms/d/e/1FAIpQLSdY2eXwQD-tKvJ_Ug-6hgdcWK_wUOZjXeJknw5XWSEO8gzJ2w/viewform
 
