@@ -1,10 +1,11 @@
-
 # NuLink Testnet Horus 2.0
 
-![nlk](https://github.com/Lorento34/NuLink-Testnet-Horus-2.0/assets/84406096/5942336a-d881-4c50-8504-63fc6609c957)
+<p align="center">
+![Capture](https://github.com/an-node/Testnet/assets/96678356/1e48fd6a-b00f-4276-a84e-9e776cbe2dfb)
+</p>
 
 ### Minimum Hardware :
-NODE  | CPU     | RAM      | SSD     |
+NODE  | CPU     | RAM      | SSD     | OS
 | ------------- | ------------- | ------------- | -------- |
 | Nulink | 4          | 8         | 30 GB  | Ubuntu 20.04
 
