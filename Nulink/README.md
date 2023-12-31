@@ -4,9 +4,9 @@
 
 
 ### Minimum Hardware :
-NODE  | CPU     | RAM      | SSD     | 
+OS  | CPU     | RAM      | SSD     | 
 | ------------- | ------------- | ------------- | -------- |
-| Nulink | 4          | 8         | 30 GB  | 
+| Ubuntu 20.04 | 4          | 8         | 30 GB  | 
 
 ### Install
 
