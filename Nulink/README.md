@@ -14,8 +14,9 @@ NODE  | CPU     | RAM      | SSD     |
 sudo ufw enable
 ```
 ```
-- sudo ufw allow 9151
+sudo ufw allow 9151
 ```
+  
 2- Pre Install
 ```
 sudo apt-get update
@@ -26,7 +27,6 @@ sudo apt install screen
 ```
 sudo apt install docker.io
 ```
-
 3- Download Geth on your server
 ```
 wget https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1.10.23-d901d853.tar.gz
