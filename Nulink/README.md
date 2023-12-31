@@ -3,21 +3,19 @@
 
 ![nlk](https://github.com/Lorento34/NuLink-Testnet-Horus-2.0/assets/84406096/5942336a-d881-4c50-8504-63fc6609c957)
 
-
-<h1>Minimum System Requirements<h6>
-
- - Ubuntu 20.04 (Recommended)
- - 4 GB Ram
- - 30GB Available Storage
-
+### Minimum Hardware :
+NODE  | CPU     | RAM      | SSD     |
+| ------------- | ------------- | ------------- | -------- |
+| Nulink | 4          | 8         | 30 GB  | Ubuntu 20.04
 
 <h1>NuLink Worker Installer<h6>
 1- Open Port
 ```
 sudo ufw enable
-sudo ufw allow 9151
 ```
-
+```
+- sudo ufw allow 9151
+```
 2- Pre Install
 ```
 sudo apt-get update
@@ -29,8 +27,7 @@ sudo apt install screen
 sudo apt install docker.io
 ```
 
-3- Download Geth on your server.
- 
+3- Download Geth on your server
 ```
 wget https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1.10.23-d901d853.tar.gz
 ```
@@ -53,7 +50,7 @@ Create password
 save data
 ```
 
-5- Pull the latest NuLink image.
+5- Pull the latest NuLink image
 ```
 docker pull nulink/nulink:latest
 ```
@@ -176,7 +173,6 @@ docker run -it --restart on-failure -d \
 -e NULINK_KEYSTORE_PASSWORD=<your_password> \
 -e NULINK_OPERATOR_ETH_PASSWORD=<your_password> \
 nulink/nulink nulink ursula run --no-block-until-ready
-
 ```
 
 16- Check Node Status
@@ -190,13 +186,13 @@ CTRL a d
 ```
 
 18. Go to dahsbord : https://dashboard.testnet.nulink.org/
-Connect your wallet to the staker on the BSC_testnet chain.
-Request NLK from the faucet on the top right of the dashboard next to the Metamask logo.
-Then select the STAKING tab.
-Click the APPROVE button.
-Click the Stake button (max 5).
-Scroll down and select the bond to Worker button.
-Insert the worker wallet.
+- Connect your wallet to the staker on the BSC_testnet chain.
+- Request NLK from the faucet on the top right of the dashboard next to the Metamask logo.
+- Then select the STAKING tab.
+- Click the APPROVE button.
+- Click the Stake button (max 5).
+- Scroll down and select the bond to Worker button.
+- Insert the worker wallet.
 
 19. fill form : https://docs.google.com/forms/d/e/1FAIpQLSdY2eXwQD-tKvJ_Ug-6hgdcWK_wUOZjXeJknw5XWSEO8gzJ2w/viewform
 
