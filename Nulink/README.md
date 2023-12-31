@@ -8,7 +8,8 @@ NODE  | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
 | Nulink | 4          | 8         | 30 GB  | Ubuntu 20.04
 
-<h1>NuLink Worker Installer<h6>
+### Install
+
 1- Open Port
 ```
 sudo ufw enable
