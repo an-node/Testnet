@@ -3,6 +3,15 @@
 ![Nulink](https://github.com/an-node/Testnet/assets/96678356/4f0705f1-7819-40dc-9b4e-44a13caa5033)
 
 
+### Documentation
+> - [Link](https://www.nulink.org/)
+> - [Documentation](https://docs.nulink.org/products/stakers/nulink_worker#minimum-system-requirements)
+> - [Twitter](https://twitter.com/NuLink_)
+> - [Discord](https://discord.com/invite/25CQFUuwJS)
+> - [Blog](https://www.nulink.org/blog-posts/nulink-testnet-horus-2-0-phase-one-testing-rules)
+> - [Dashboard](https://dashboard.testnet.nulink.org/)
+
+
 ### Minimum Hardware :
 OS  | CPU     | RAM      | SSD     | 
 | ------------- | ------------- | ------------- | -------- |
