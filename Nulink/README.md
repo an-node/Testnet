@@ -1,8 +1,10 @@
 # NuLink Testnet Horus 2.0
-
 <p align="center">
-![Capture](https://github.com/an-node/Testnet/assets/96678356/1e48fd6a-b00f-4276-a84e-9e776cbe2dfb)
+![Capture](https://github.com/an-node/Testnet/assets/96678356/a94c1ec3-0d94-4dbf-88e2-65afe6a9bc3c)
 </p>
+
+![Capture](https://github.com/an-node/Testnet/assets/96678356/1e48fd6a-b00f-4276-a84e-9e776cbe2dfb)
+
 
 ### Minimum Hardware :
 NODE  | CPU     | RAM      | SSD     | OS
